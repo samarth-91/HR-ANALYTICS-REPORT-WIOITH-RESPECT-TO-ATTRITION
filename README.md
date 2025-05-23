@@ -1,8 +1,7 @@
-# HR-ANALYTICS-REPORT-WIOITH-RESPECT-TO-ATTRITION
+# HR-ANALYTICS-REPORT-WITH-RESPECT-TO-ATTRITION
 This dashboard provided HR teams with a clear view of where attrition was highest—enabling targeted interventions to improve employee retention, refine hiring strategies, and address role-specific or demographic issues.
 # HR Analytics Dashboard 📊
 
-This Power BI project analyzes employee attrition data to uncover critical HR trends and provide actionable insights for talent management and retention strategies.
 
 ## 📌 Overview
 
@@ -48,14 +47,4 @@ The **HR Analytics Dashboard** enables HR professionals and decision-makers to:
 - Strategic planning for employee retention
 - Data-driven hiring and workforce development
 
-## 📷 Screenshots
 
-![Dashboard Overview](path/to/screenshot.png)
-
-## 📥 Getting Started
-
-> Note: Power BI Desktop must be installed to open the `.pbix` file.
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/yourusername/hr-analytics-dashboard.git
